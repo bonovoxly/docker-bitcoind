@@ -1,8 +1,6 @@
 
 # docker-bitcoind
 
-Updated on 2018-02-05.
-
 [![Docker Stars](https://img.shields.io/docker/stars/bcawthra/bitcoind.svg)](https://hub.docker.com/r/bcawthra/bitcoind/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/bcawthra/bitcoind.svg)](https://hub.docker.com/r/bcawthra/bitcoind/)
 [![CircleCI](https://circleci.com/gh/bonovoxly/docker-bitcoind/tree/master.svg?style=svg)](https://circleci.com/gh/bonovoxly/docker-bitcoind/tree/master)
